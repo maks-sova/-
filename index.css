@@ -175,3 +175,6 @@ margin-top: 200px;
   .content-buyer{
     list-style: none;
   }
+  .card-meredit{
+    display: grid;
+  }
