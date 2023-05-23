@@ -138,8 +138,18 @@ margin-top: 200px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
+  font-weight: 300;
   letter-spacing: 0.03em;
-  color: #757575;
+   color: #757575;
+}
+.skil_teams {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  color: #000;
 }
 .ready-to-learn{
  display: grid;
@@ -156,7 +166,7 @@ margin-top: 200px;
  display: grid;
     grid-template-columns: 36% 64%;
     transition: 0.4s ease;
-    background: #FFFFFF;
+    /* background: #FFFFFF; */
     box-shadow: 0px 80px 80px -20px rgba(154, 156, 165, 0.08), 0px 30px 24px -10px rgba(154, 156, 165, 0.05), 0px 12px 10px -6px rgba(154, 156, 165, 0.04), 0px 4px 4px -4px rgba(30, 33, 44, 0.03);
     border-radius: 4px;
 }
@@ -193,3 +203,38 @@ margin-top: 200px;
     padding-right: 30px;
     padding-left: 50px;
   }
+  .tehnology{
+    font-size: 120px;
+    margin-left: 50px;
+    
+    font-weight: 600;
+    color:cadetblue;
+}
+.frond{
+  /* display: flex; */
+list-style: none;
+  
+}
+.frond-title{
+  display: flex;
+  font-size: 60px;
+    font-weight: 600;
+    color:cadetblue;
+    margin-left: 10px
+}
+.container-tehnology{
+  /* display:flex; */
+  margin-left: 40px;
+}
+.poster-styless {
+  
+  display: grid;
+  width: 300px;
+  /* background-color: #FFFFFF; */
+  /* border-radius: 0px 0px 4px 4px; */
+  /* box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2); */
+}
+.list-tehnology{
+  display: flex;
+  justify-content:space-around;
+}
