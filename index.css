@@ -43,8 +43,9 @@ margin-top: 200px;
       position: absolute;
       width: 350px;
       height: 300px;
-      left: 0px;
-      top: auto;
+      /* left: 0px;
+      top: auto; */
+      right: 40px;
       transform: rotate(-26deg);
 }
 .pet3{
@@ -214,6 +215,7 @@ margin-top: 200px;
     list-style: none;
   }
   .card-meredit{
+    position: absolute;
     display: grid;
     padding-right: 30px;
     padding-left: 50px;
