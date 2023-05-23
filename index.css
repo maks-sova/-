@@ -238,3 +238,10 @@ list-style: none;
   display: flex;
   justify-content:space-around;
 }
+.frond-titles{
+ display: flex;
+  font-size: 60px;
+    font-weight: 600;
+    color:cadetblue;
+    margin-left: 60px;
+}
