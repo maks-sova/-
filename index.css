@@ -7,7 +7,7 @@ background-image: url(./bg.jpg);
 
 }
 .home__containers{
-  position: absolute;
+  /* position: absolute; */
 margin-top: 400px;
 }
 .home__containery{
@@ -30,24 +30,6 @@ margin-top: 200px;
       font-weight: 600;
       color:cadetblue;
 }
-.pet{
- position: absolute;
-    width: 300px;
-    height: 250px;
-    left: 90px;
-    top: 40px;
-    /* background: url(23aab0bf-039c-48f9-a1b4-b12103fca523.png); */
-    transform: rotate(10.52deg);
-}
-.pet2{
-      position: absolute;
-      width: 350px;
-      height: 300px;
-      /* left: 0px;
-      top: auto; */
-      right: -40px;
-      transform: rotate(-26deg);
-}
 .pet3{
      position: absolute;
     width: 350px;
@@ -57,16 +39,7 @@ margin-top: 200px;
    
     transform: rotate(-0.5deg);
 }
-.pet4{
-  position: absolute;
-  width: 350px;
-  height: 300px;
-  left: 90px;
-  top: 40px;
 
-  /* background: url(23aab0bf-039c-48f9-a1b4-b12103fca523.png); */
-  transform: rotate(10.52deg);
-}
 .merchant__titles{
     font-size: 120px;
     margin-left: 550px;
