@@ -178,4 +178,6 @@ margin-top: 200px;
   }
   .card-meredit{
     display: grid;
+    padding-right: 30px;
+    padding-left: 50px;
   }
