@@ -245,3 +245,24 @@ list-style: none;
     color:cadetblue;
     margin-left: 60px;
 }
+.final{
+  margin-top: 300px;
+  position: absolute;
+}
+.pet2{
+   position: relative;
+    width: 350px;
+    height: 300px;
+    left: 800px;
+    /* right: 80px; */
+    top: 0px;
+   
+    transform: rotate(-24.5deg);
+}
+.frond-titless{
+ display: flex;
+  font-size: 160px;
+    font-weight: 600;
+    color:cadetblue;
+ margin-left: 400px;
+}
